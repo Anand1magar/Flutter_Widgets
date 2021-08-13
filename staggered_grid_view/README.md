@@ -4,11 +4,7 @@ A new Flutter project.
 
 ## Staggered Grid View
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
-![til](https://lh6.googleusercontent.com/OzfgjjixNXf3rkSewJngXQG5kzMgR1TclH0JCw6hgLk7eV95AiVOz0tGE64NfVhrHudQSunoGWxH1pieTF9sqoHRXs57BQSWMUzkHPoiHZvoiMDvWwcW5q60wP6sy28IgnxqzynC)
-
-![img](https://lh6.googleusercontent.com/OzfgjjixNXf3rkSewJngXQG5kzMgR1TclH0JCw6hgLk7eV95AiVOz0tGE64NfVhrHudQSunoGWxH1pieTF9sqoHRXs57BQSWMUzkHPoiHZvoiMDvWwcW5q60wP6sy28IgnxqzynC)
 
 ![img](https://lh6.googleusercontent.com/9qCgczfYt9CPxtTQVdwojOW8FvlhLDUzmttG17nfDfeU2vHiu_lTgQC2chjzz5aEbL2r5mysHBLjn-ODxxGlaSP5irCAIAk2mOs8qb8Ph8yOUKAKCe8-pP_Cg4mT-QMl05h_hFJB)
 
